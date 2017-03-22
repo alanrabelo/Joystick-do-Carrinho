@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Joystick do Carrinho.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E744F1591E82B2E9004DEAD8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E744F16D1E82B2E9004DEAD8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E744F1781E82B2EA004DEAD8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
